@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1556108484 source:c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL_image.h>
+
+1556108339 c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1556093364 c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1556113715 source:c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\game.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<cmath>
+	<chrono>
+	<ctime>
+	<map>
+	"Game.h"
+
+1556115182 c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\game.h
+	<cmath>
+	<chrono>
+	<ctime>
+	<map>
+	"Snake.h"
+	"Position.h"
+
+1556113729 c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\snake.h
+	<queue>
+	<vector>
+	"Position.h"
+
+1555263869 c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\position.h
+
+1556115183 source:c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<SDL_ttf.h>
+	"SDL_utils.h"
+	"Game.h"
+	"Gallery.h"
+	"Position.h"
+
+1556097435 source:c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1556113715 source:c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\snake.cpp
+	"Snake.h"
+	"Game.h"
+	<iostream>
+
+1556032142 source:c:\users\phuonglinht9\desktop\snakecochau\advprogram\lec12-snake\snake\block.cpp
+
+1556032142 source:c:\users\phuonglinht9\desktop\snake\block.cpp
+
+1556124449 source:c:\users\phuonglinht9\desktop\snake\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL_image.h>
+
+1556123239 c:\users\phuonglinht9\desktop\snake\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1556093364 c:\users\phuonglinht9\desktop\snake\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1556097435 source:c:\users\phuonglinht9\desktop\snake\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1556258219 source:c:\users\phuonglinht9\desktop\snake\game.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<cmath>
+	<chrono>
+	<ctime>
+	<map>
+	"Game.h"
+
+1556119465 c:\users\phuonglinht9\desktop\snake\game.h
+	<cmath>
+	<chrono>
+	<ctime>
+	<map>
+	"Snake.h"
+	"Position.h"
+
+1556209359 c:\users\phuonglinht9\desktop\snake\snake.h
+	<queue>
+	<vector>
+	"Position.h"
+
+1555263869 c:\users\phuonglinht9\desktop\snake\position.h
+
+1556257875 source:c:\users\phuonglinht9\desktop\snake\snake.cpp
+	"Snake.h"
+	"Game.h"
+	<iostream>
+
+1556258915 source:c:\users\phuonglinht9\desktop\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<SDL_ttf.h>
+	"SDL_utils.h"
+	"Game.h"
+	"Gallery.h"
+	"Position.h"
+
