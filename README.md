@@ -1,4 +1,4 @@
-### Game Undo Snake is project of advanced programming subject
+### UndoSnake Game is project of Advanced Programming subject
 
 Tech: C++
 
